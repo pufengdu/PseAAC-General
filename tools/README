@@ -1,0 +1,9 @@
+README File for
+BEM Online Update Tools
+---------------------------------
+
+This directory contains the BOUTs programs.
+
+These programs depend on Bash and Perl.
+
+Please refer to ../doc/BOUTS-manual.pdf for details.
