@@ -27,3 +27,11 @@ To test your compilation, just find the **pseb** executable and type **./pseb --
 For ***Microsoft Windows*** platform, just send emails to PufengDu@gmail.com. You will recieve a compiled executable for your Windows environment.
 
 If you got any difficulties, just send emails to PufengDu@gmail.com to complain. We will try out best to fix it asap.
+
+## Citations
+
+If you find PseAAC-General useful in your work, please cite the following two articles.
+
+[1] **Pufeng Du**, Shuwang Gu, Yasen Jiao. PseAAC-General: Fast Building Various Modes of General Form of Chou’s Pseudo-Amino Acid Composition for Large-Scale Protein Datasets. ***International Journal of Molecular Sciences*** 15 (2014), pp.3495-3506
+
+[2] **Pufeng Du**, Xin Wang, Chao Xu, Yang Gao. PseAAC-Builder: A cross-platform stand-alone program for generating various special Chou's pseudo-amino acid compositions. ***Analytical Biochemistry*** 425 (2012) pp.117-119
