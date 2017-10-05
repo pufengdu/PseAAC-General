@@ -32,6 +32,6 @@ If you got any difficulties, just send emails to PufengDu@gmail.com to complain.
 
 If you find PseAAC-General useful in your work, please cite the following two articles.
 
-[1] **Pufeng Du**, Shuwang Gu, Yasen Jiao. PseAAC-General: Fast Building Various Modes of General Form of Chou’s Pseudo-Amino Acid Composition for Large-Scale Protein Datasets. ***International Journal of Molecular Sciences*** 15 (2014), pp.3495-3506
+[1] **Pufeng Du**, Shuwang Gu, Yasen Jiao. PseAAC-General: Fast Building Various Modes of General Form of Chou’s Pseudo-Amino Acid Composition for Large-Scale Protein Datasets. ***International Journal of Molecular Sciences*** 15 (2014), pp.3495-3506 http://dx.doi.org/10.3390/ijms15033495
 
-[2] **Pufeng Du**, Xin Wang, Chao Xu, Yang Gao. PseAAC-Builder: A cross-platform stand-alone program for generating various special Chou's pseudo-amino acid compositions. ***Analytical Biochemistry*** 425 (2012) pp.117-119
+[2] **Pufeng Du**, Xin Wang, Chao Xu, Yang Gao. PseAAC-Builder: A cross-platform stand-alone program for generating various special Chou's pseudo-amino acid compositions. ***Analytical Biochemistry*** 425 (2012) pp.117-119 https://doi.org/10.1016/j.ab.2012.03.015
